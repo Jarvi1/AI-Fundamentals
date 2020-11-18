@@ -1,0 +1,12 @@
+;;Jarvis Cole 
+
+;; Dribble of #<IO TERMINAL-STREAM> started on 2020-08-21 21:50:34.
+#<OUTPUT BUFFERED FILE-STREAM CHARACTER #P"river-run.txt">
+[2]> (load 'test)
+T
+[3]> (prep)
+T
+[4]> (test)
+#S(NODE :STATE (0 0 0 W) :PATH (F-TAKES-WOLF F-TAKES-SELF F-TAKES-CAT-DUCK F-TAKES-CAT F-TAKES-DUCK-DUCK F-TAKES-SELF F-TAKES-CAT-CAT))
+[5]> (dribble)
+;; Dribble of #<IO TERMINAL-STREAM> finished on 2020-08-21 21:51:36.
